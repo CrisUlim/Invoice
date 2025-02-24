@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/barcodeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Barcode (Optional)"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/productNameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Product Name"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/productDescriptionInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Description"
+        android:inputType="textMultiLine"
+        android:minLines="2"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/productPriceInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Price"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/productQuantityInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Quantity"
+        android:inputType="number"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/productUnitInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Unit (e.g., pcs, kg, L)"
+        android:inputType="text"
+        android:layout_marginBottom="8dp"/>
+
+</LinearLayout> 
