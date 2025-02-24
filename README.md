@@ -56,9 +56,6 @@ O aplicație simplă pentru telefoanele Android care te ajută să:
 - Asigură-te că ai adăugat cel puțin un produs
 - Verifică dacă ai spațiu în telefon
 
-### Alte probleme?
-Contactează-ne la: [email]
-
 ## Ce urmează?
 Vom adăuga:
 - Salvare în cloud
@@ -66,25 +63,5 @@ Vom adăuga:
 - Statistici de vânzări
 - Traduceri în alte limbi
 
-## Ai găsit o problemă?
-- Spune-ne pe pagina de [Issues]
-- Trimite-ne un email
-- Descrie clar problema întâlnită
-
-## Vrei să ajuți?
-Dacă vrei să contribui:
-1. Copiază proiectul (Fork)
-2. Fă modificările dorite
-3. Trimite modificările (Pull Request)
-
-## Mulțumiri
-- Tuturor celor care au ajutat
-- Bibliotecilor folosite
-- Comunității de dezvoltatori
-
 ## Licență
-[Tipul licenței - va fi adăugat]
-
-## Contact
-- Email: [adresa_email]
-- Site: [website] 
+Licențe open-source.
