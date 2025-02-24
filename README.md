@@ -8,7 +8,18 @@ O aplicație simplă pentru telefoanele Android care te ajută să:
 - Trimiți facturi direct prin email
 
 ## Cum arată?
-[Poze cu aplicația vor fi adăugate aici]
+<img src="image/1.jpg"  width="200" height="300">
+<img src="image/2.jpg"  width="200" height="300">
+<img src="image/3.jpg"  width="200" height="300">
+<img src="image/4.jpg"  >
+<img src="image/5.jpg"  width="200" height="300">
+<img src="image/6.jpg"  width="200" height="300">
+<img src="image/7.jpg"  width="200" height="300">
+<img src="image/8.jpg"  width="200" height="300">
+
+
+
+
 
 ## Cum o folosești?
 
